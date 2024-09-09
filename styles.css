@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav{
+    display: flex;
+    color: #25A59E;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-top: 30px;
+    padding-right: 20px;
+
+}
+.blurry{
+    position: absolute;
+    justify-content: center;
+}
+.ellipse{
+    position: absolute;
+    justify-items: center;
+
+    
+}
+.hero{
+    position: absolute;
+    justify-items: center;
+}
