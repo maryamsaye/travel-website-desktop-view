@@ -15,14 +15,19 @@
 .blurry{
     position: absolute;
     justify-content: center;
+    
 }
 .ellipse{
     position: absolute;
     justify-items: center;
+    margin-left: 235px;
+    margin-top: 400px;
 
     
 }
 .hero{
     position: absolute;
     justify-items: center;
+    margin-left: 200px;
+    margin-top: 205px;
 }
