@@ -5,11 +5,13 @@
 }
 .nav{
     display: flex;
-    color: #25A59E;
     justify-content: space-between;
-    padding-left: 20px;
-    padding-top: 30px;
-    padding-right: 20px;
+    margin: 30px;
+}
+.nav p {
+    font-size: 24px;
+    color: #25A59E;
+    font-family: "Gilda display";
 
 }
 .blurry{
@@ -31,3 +33,43 @@
     margin-left: 200px;
     margin-top: 205px;
 }
+h1{
+    justify-content: center;
+    text-align: center;
+}
+span{
+    color: #25A59E;
+}
+.Travel {
+    font-size: 64px;
+}
+.img-container{
+    position: relative;
+    height: 700px;
+    width: 100%;
+    transform: translateY(-30%);
+}
+.h2{
+    text-align: center;
+    font-family: "Gilda display";
+    font-weight: 400;
+    font-size: 30px;
+    color: #262626;
+    height: 84px;
+}
+.p{
+    text-align: center;
+    font-family: "Urbanist";
+    font-weight: 500;
+    height: 24px;
+    color: #262626;
+
+
+}
+span2{
+    font-size: 24px;
+    font-weight: 500;
+    font-family: "Urbanist";
+    height: 24px;
+}
+
