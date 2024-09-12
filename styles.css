@@ -66,10 +66,15 @@ span{
 
 
 }
-span2{
-    font-size: 24px;
-    font-weight: 500;
-    font-family: "Urbanist";
-    height: 24px;
+.card-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
 }
-
+.location {
+    display: flex;
+}
+.rotate{
+    transform:rotate(-180deg);
+}
