@@ -237,12 +237,94 @@ h3{
     background-color: #25A59E;
 }
 .trip{
-    display: flex;
-    transform:translateY(40%);
+    font-family: "Gilda display";
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    color: #262626;
+    transform: translateY(50%);
 }
+.thousands{
+    font-family:"Urbanist";
+    font-weight: 400;
+    font-size: 12px;
+    margin-right: 50px;
+    line-height: 20px;
+
+}
+
 .travellers{
-    transform: translateY(-40%);
+    transform: translateY(-100%);
+    margin-left: 100px;
 }
+
+.img-group{
+    margin-left: 400px;
+    margin-top: 250px;
+}
+.arrow{
+    transform: translateX(35%);
+}
+
+.watch{
+    font-family: "Gilda display";
+    font-size: 3.5vw;
+    font-weight: 400;
+    line-height: 64px;
+    height: 168px;
+    text-align: center;
+    color: #262626;
+    margin-left: 50px;
+}
+.vedio{
+    width: 100%;
+
+}
+.header-container{
+    font-family: "Gilda display";
+    font-weight: 400;
+    font-size: 30px;
+    display: flex;
+    gap: 500px;
+
+}
+.click{
+    transform: translateX(600%);
+    margin-left: 5px;
+
+}
+.move{
+    font-family: "Gilda display";
+    font-size: 28px;
+    font-weight: 400;
+    line-height: 100px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    color: #25A59E;
+}
+.agent{
+    font-family: "Urbanist";
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32px;
+    text-align: left;
+}
+.social-link{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+
+}
+.notification{
+    margin-top: 30px;
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 10px;
+}
+
+
 
 
 
